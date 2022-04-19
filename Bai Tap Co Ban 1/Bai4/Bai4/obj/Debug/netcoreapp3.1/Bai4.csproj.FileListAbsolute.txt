@@ -1,0 +1,14 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\bin\Debug\netcoreapp3.1\Bai4.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\bin\Debug\netcoreapp3.1\Bai4.deps.json
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\bin\Debug\netcoreapp3.1\Bai4.runtimeconfig.json
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\bin\Debug\netcoreapp3.1\Bai4.runtimeconfig.dev.json
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\bin\Debug\netcoreapp3.1\Bai4.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\bin\Debug\netcoreapp3.1\Bai4.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.AssemblyInfoInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.AssemblyInfo.cs
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\Bai4\Bai4\obj\Debug\netcoreapp3.1\Bai4.genruntimeconfig.cache

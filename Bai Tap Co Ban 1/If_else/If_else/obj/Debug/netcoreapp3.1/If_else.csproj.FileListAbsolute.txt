@@ -1,0 +1,14 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\bin\Debug\netcoreapp3.1\If_else.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\bin\Debug\netcoreapp3.1\If_else.deps.json
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\bin\Debug\netcoreapp3.1\If_else.runtimeconfig.json
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\bin\Debug\netcoreapp3.1\If_else.runtimeconfig.dev.json
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\bin\Debug\netcoreapp3.1\If_else.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\bin\Debug\netcoreapp3.1\If_else.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.GeneratedMSBuildEditorConfig.editorconfig
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.AssemblyInfoInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.AssemblyInfo.cs
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\CSharp_BaiTapCoBan_1\If_else\If_else\obj\Debug\netcoreapp3.1\If_else.genruntimeconfig.cache
