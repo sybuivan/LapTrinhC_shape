@@ -1,0 +1,6 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai12\Bai12\bin\Debug\Bai12.exe.config
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai12\Bai12\bin\Debug\Bai12.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai12\Bai12\bin\Debug\Bai12.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai12\Bai12\obj\Debug\Bai12.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai12\Bai12\obj\Debug\Bai12.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai12\Bai12\obj\Debug\Bai12.pdb

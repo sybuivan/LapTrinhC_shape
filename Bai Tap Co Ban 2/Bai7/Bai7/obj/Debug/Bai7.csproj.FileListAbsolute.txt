@@ -1,0 +1,7 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\bin\Debug\Bai7.exe.config
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\bin\Debug\Bai7.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\bin\Debug\Bai7.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\obj\Debug\Bai7.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\obj\Debug\Bai7.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\obj\Debug\Bai7.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai7\Bai7\obj\Debug\Bai7.pdb

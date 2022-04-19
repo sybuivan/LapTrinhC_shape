@@ -1,0 +1,14 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\bin\Debug\netcoreapp3.1\bai2.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\bin\Debug\netcoreapp3.1\bai2.deps.json
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\bin\Debug\netcoreapp3.1\bai2.runtimeconfig.json
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\bin\Debug\netcoreapp3.1\bai2.runtimeconfig.dev.json
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\bin\Debug\netcoreapp3.1\bai2.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\bin\Debug\netcoreapp3.1\bai2.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.GeneratedMSBuildEditorConfig.editorconfig
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.AssemblyInfoInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.AssemblyInfo.cs
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\bai2\bai2\obj\Debug\netcoreapp3.1\bai2.genruntimeconfig.cache

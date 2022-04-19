@@ -1,0 +1,7 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\bin\Debug\Bai 8.exe.config
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\bin\Debug\Bai 8.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\bin\Debug\Bai 8.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\obj\Debug\Bai 8.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\obj\Debug\Bai 8.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\obj\Debug\Bai 8.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\250 bai\Bai 8\Bai 8\obj\Debug\Bai 8.pdb
