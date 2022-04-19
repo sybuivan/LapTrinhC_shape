@@ -1,0 +1,7 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\bin\Debug\Bai65.exe.config
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\bin\Debug\Bai65.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\bin\Debug\Bai65.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\obj\Debug\Bai65.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\obj\Debug\Bai65.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\obj\Debug\Bai65.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai65\Bai65\obj\Debug\Bai65.csproj.AssemblyReference.cache

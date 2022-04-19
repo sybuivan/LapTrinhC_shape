@@ -1,0 +1,6 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai63\Bai63\bin\Debug\Bai63.exe.config
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai63\Bai63\bin\Debug\Bai63.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai63\Bai63\bin\Debug\Bai63.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai63\Bai63\obj\Debug\Bai63.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai63\Bai63\obj\Debug\Bai63.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\Bai63\Bai63\obj\Debug\Bai63.pdb

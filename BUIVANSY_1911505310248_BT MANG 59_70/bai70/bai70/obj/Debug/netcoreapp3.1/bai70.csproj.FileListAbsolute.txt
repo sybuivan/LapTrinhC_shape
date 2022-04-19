@@ -1,0 +1,14 @@
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\bin\Debug\netcoreapp3.1\bai70.exe
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\bin\Debug\netcoreapp3.1\bai70.deps.json
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\bin\Debug\netcoreapp3.1\bai70.runtimeconfig.json
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\bin\Debug\netcoreapp3.1\bai70.runtimeconfig.dev.json
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\bin\Debug\netcoreapp3.1\bai70.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\bin\Debug\netcoreapp3.1\bai70.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.GeneratedMSBuildEditorConfig.editorconfig
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.AssemblyInfoInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.AssemblyInfo.cs
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.dll
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.pdb
+E:\NĂM 3\KỲ 221\Lập trình C#\Bai Tap\23_3_2022\BT MANG 59_70\bai70\bai70\obj\Debug\netcoreapp3.1\bai70.genruntimeconfig.cache
