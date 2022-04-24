@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace BaiTap_DaHinh
 {
-    class hinh
+    class tamGiac : hinh
     {
-        public virtual void xuat()
+        public override void xuat()
         {
-            Console.WriteLine("Day la hinh hoc!");
+            Console.WriteLine("Hinh tam giac:" +
+                            "Co 3 canh");
         }
     }
 }

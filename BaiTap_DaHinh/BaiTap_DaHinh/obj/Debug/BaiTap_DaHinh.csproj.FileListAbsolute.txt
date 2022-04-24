@@ -1,0 +1,7 @@
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\bin\Debug\BaiTap_DaHinh.exe.config
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\bin\Debug\BaiTap_DaHinh.exe
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\bin\Debug\BaiTap_DaHinh.pdb
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\obj\Debug\BaiTap_DaHinh.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\obj\Debug\BaiTap_DaHinh.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\obj\Debug\BaiTap_DaHinh.exe
+E:\NĂM 3\KỲ 221\BaiTap_DaHinh\BaiTap_DaHinh\BaiTap_DaHinh\obj\Debug\BaiTap_DaHinh.pdb
