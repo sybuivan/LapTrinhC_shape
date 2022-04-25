@@ -1,0 +1,7 @@
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\bin\Debug\Bai 2.exe.config
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\bin\Debug\Bai 2.exe
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\bin\Debug\Bai 2.pdb
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\obj\Debug\Bai 2.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\obj\Debug\Bai 2.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\obj\Debug\Bai 2.exe
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\Tong hop bai tap huong doi tuong\Bai 2\Bai 2\obj\Debug\Bai 2.pdb
