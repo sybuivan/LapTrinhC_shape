@@ -57,27 +57,39 @@ namespace DiemDanh_26_4_BuiVanSY
 
     class Animal
     {
-        public virtual void eat_248()
+        public void eat_248()
         {
             Console.WriteLine("Animal is eat..");
         }
 
-        public virtual void makeSound_248()
+        public void makeSound_248()
         {
             Console.WriteLine("Animal is sound");
         }
+
+        public virtual void run_248()
+        {
+
+        }
+
+        public virtual void fly_248()
+        {
+
+        }
+
     }
 
     class Cat: Animal
     {
-        public void run()
+        public override void run_248()
         {
             Console.WriteLine("Cat Runn");
         }
     }
+
      class Bird: Animal
     {
-        public void fly()
+        public override void fly_248()
         {
             Console.WriteLine("Cat Fly...");
         }
@@ -96,6 +108,14 @@ class Program
             c_248 = float.Parse(Console.ReadLine());
             ptb2_248 ptb2 = new ptb2_248();
             ptb2.GiaiHPT(a_248, b_248, c_248);
+
+
+            Animal cat = new Cat();
+            Animal bird = new Bird();
+
+            cat.eat_248();
+
+            bird.fly_248();
         }
     }
 }
