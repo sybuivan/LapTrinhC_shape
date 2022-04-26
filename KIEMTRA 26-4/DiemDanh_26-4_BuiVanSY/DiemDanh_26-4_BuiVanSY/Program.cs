@@ -57,12 +57,12 @@ namespace DiemDanh_26_4_BuiVanSY
 
     class Animal
     {
-        public virtual void eat()
+        public virtual void eat_248()
         {
             Console.WriteLine("Animal is eat..");
         }
 
-        public virtual void makeSound()
+        public virtual void makeSound_248()
         {
             Console.WriteLine("Animal is sound");
         }
@@ -74,7 +74,9 @@ namespace DiemDanh_26_4_BuiVanSY
         {
             Console.WriteLine("Cat Runn");
         }
-
+    }
+     class Bird: Animal
+    {
         public void fly()
         {
             Console.WriteLine("Cat Fly...");
