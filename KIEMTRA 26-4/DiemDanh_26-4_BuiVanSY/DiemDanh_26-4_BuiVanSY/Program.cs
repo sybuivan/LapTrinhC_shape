@@ -59,12 +59,25 @@ namespace DiemDanh_26_4_BuiVanSY
     {
         public virtual void eat()
         {
-
+            Console.WriteLine("Animal is eat..");
         }
 
         public virtual void makeSound()
         {
+            Console.WriteLine("Animal is sound");
+        }
+    }
 
+    class Cat: Animal
+    {
+        public void run()
+        {
+            Console.WriteLine("Cat Runn");
+        }
+
+        public void fly()
+        {
+            Console.WriteLine("Cat Fly...");
         }
     }
 
