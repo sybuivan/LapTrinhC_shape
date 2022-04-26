@@ -32,7 +32,7 @@ namespace Bai_2
         public override void Xuat()
         {
             base.Xuat();
-            Console.WriteLine("Ngay Phat Hanh: {0}", ngayPhatHanh);
+            Console.WriteLine("\nNgay Phat Hanh: {0}", ngayPhatHanh);
         }
     }
 }
