@@ -1,0 +1,14 @@
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\bin\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).exe
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\bin\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).deps.json
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\bin\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).runtimeconfig.json
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\bin\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).runtimeconfig.dev.json
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\bin\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).dll
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\bin\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).pdb
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).GeneratedMSBuildEditorConfig.editorconfig
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).AssemblyInfoInputs.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).AssemblyInfo.cs
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).dll
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).pdb
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\BaiTapDiemDanh(10_5)\BaiTapDiemDanh(10_5)\obj\Debug\netcoreapp3.1\BaiTapDiemDanh(10_5).genruntimeconfig.cache

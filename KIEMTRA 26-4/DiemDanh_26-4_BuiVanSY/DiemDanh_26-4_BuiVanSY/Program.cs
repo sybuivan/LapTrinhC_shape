@@ -28,7 +28,7 @@ namespace DiemDanh_26_4_BuiVanSY
 
         public double delta_248(double a_248, double b_248, double c_248)
         {
-            return a_248 * b_248 - 4 * a_248 * c_248;
+            return b_248 * b_248 - 4 * a_248 * c_248;
         }
 
 
@@ -116,6 +116,8 @@ class Program
             cat.eat_248();
 
             bird.fly_248();
+
+            Console.ReadKey();
         }
     }
 }

@@ -1,0 +1,7 @@
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\bin\Debug\DiemDanh_26-4_BuiVanSY.exe.config
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\bin\Debug\DiemDanh_26-4_BuiVanSY.exe
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\bin\Debug\DiemDanh_26-4_BuiVanSY.pdb
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\obj\Debug\DiemDanh_26-4_BuiVanSY.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\obj\Debug\DiemDanh_26-4_BuiVanSY.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\obj\Debug\DiemDanh_26-4_BuiVanSY.exe
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\KIEMTRA 26-4\DiemDanh_26-4_BuiVanSY\DiemDanh_26-4_BuiVanSY\obj\Debug\DiemDanh_26-4_BuiVanSY.pdb
