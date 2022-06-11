@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HDT_KHU DAN PHO/1.0.0": {
+        "runtime": {
+          "HDT_KHU DAN PHO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HDT_KHU DAN PHO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

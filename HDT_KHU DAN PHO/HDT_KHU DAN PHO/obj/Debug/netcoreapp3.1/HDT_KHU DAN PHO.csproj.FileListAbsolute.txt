@@ -1,0 +1,14 @@
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\bin\Debug\netcoreapp3.1\HDT_KHU DAN PHO.exe
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\bin\Debug\netcoreapp3.1\HDT_KHU DAN PHO.deps.json
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\bin\Debug\netcoreapp3.1\HDT_KHU DAN PHO.runtimeconfig.json
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\bin\Debug\netcoreapp3.1\HDT_KHU DAN PHO.runtimeconfig.dev.json
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\bin\Debug\netcoreapp3.1\HDT_KHU DAN PHO.dll
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\bin\Debug\netcoreapp3.1\HDT_KHU DAN PHO.pdb
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.csproj.AssemblyReference.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.GeneratedMSBuildEditorConfig.editorconfig
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.AssemblyInfoInputs.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.AssemblyInfo.cs
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.csproj.CoreCompileInputs.cache
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.dll
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.pdb
+E:\NĂM 3\KỲ 221\LapTrinhC_shape\HDT_KHU DAN PHO\HDT_KHU DAN PHO\obj\Debug\netcoreapp3.1\HDT_KHU DAN PHO.genruntimeconfig.cache
